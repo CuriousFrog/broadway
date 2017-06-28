@@ -28,7 +28,8 @@ div {
 }
 
 a {
-  color: white
+  color: white;
+  font-size: 18px;
 }
 
 .header {
@@ -52,7 +53,7 @@ a {
   text-align: left;
 }
 
-#nav {
+.nav {
   color: white;
   font-size: 18px
 }
